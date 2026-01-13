@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0: 2E3440,100:4C566A&height=200&section=header&text=Vikash%20Kumar&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20(AIML)&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:4C566A&height=200&section=header&text=Vikash%20Kumar&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20(AIML)&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -123,7 +123,7 @@ Professional Skills:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=vikashkumar016&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashkumar016&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -185,11 +185,13 @@ Professional Skills:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your. email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashkumar016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-a0ab901b9/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vku96625)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vikash_016/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Code_Catalyst_016)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000? style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio. com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashkumar016)
 
 </div>
 
@@ -199,12 +201,12 @@ Professional Skills:
 
 <div align="center">
 
-| Platform | Profile | Stats |
+| Platform | Profile | Problem Solving |
 |: ---:|:---:|:---:|
-| 💻 **LeetCode** | [@your-username](https://leetcode.com/your-username) | ![LeetCode Stats](https://leetcard.jacoblin.cool/your-username? theme=nord&font=JetBrains%20Mono&ext=heatmap) |
-| 🏆 **CodeChef** | [@your-username](https://codechef.com/users/your-username) | ⭐ [Your Rating] |
-| 📊 **Codeforces** | [@your-username](https://codeforces.com/profile/your-username) | ⭐ [Your Rating] |
-| 🎯 **HackerRank** | [@your-username](https://hackerrank.com/your-username) | ⭐ 5-Star Problem Solver |
+| 💻 **LeetCode** | [@vikash_016](https://leetcode.com/u/vikash_016/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/vikash_016? theme=nord&font=JetBrains%20Mono&ext=heatmap) |
+| 🏆 **Codeforces** | [@Code_Catalyst_016](https://codeforces.com/profile/Code_Catalyst_016) | Competitive Programmer |
+| 🎯 **HackerRank** | [@vikashkumar016](https://hackerrank.com/vikashkumar016) | Problem Solver |
+| 📊 **CodeChef** | [@vikashkumar016](https://codechef.com/users/vikashkumar016) | Active Participant |
 
 </div>
 
@@ -231,7 +233,7 @@ I am actively seeking **full-time opportunities**, **internships**, and **collab
 ### 📊 Profile Statistics
   
 ![Profile Views](https://komarev.com/ghpvc/?username=vikashkumar016&style=for-the-badge&color=5E81AC&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/vikashkumar016?style=for-the-badge&color=88C0D0&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/vikashkumar016? style=for-the-badge&color=88C0D0&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/vikashkumar016?style=for-the-badge&color=BF616A&labelColor=0d1117)
 
 </div>
