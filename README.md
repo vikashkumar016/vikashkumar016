@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:4C566A&height=200&section=header&text=Vikash%20Kumar&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20(AIML)&descAlignY=55&descSize=20" width="100%"/>
 </div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com? font=JetBrains+Mono&weight=500&size=24&pause=1000&color=5E81AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%7C+Competitive+Programmer;Open+to+SDE+Opportunities)](https://git.io/typing-svg)
-  
-</div>
-
 <br/>
 
 ## 👨‍💻 Professional Summary
