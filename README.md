@@ -1,244 +1,238 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:4C566A&height=200&section=header&text=Vikash%20Kumar&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20(AIML)&descAlignY=55&descSize=20" width="100%"/>
-</div>
-<br/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vikash Kumar | Software Developer</title>
 
-## 👨‍💻 Professional Summary
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-Motivated and detail-oriented **Computer Science Engineering student** specializing in **Artificial Intelligence & Machine Learning**, with strong expertise in **Full Stack Development**.  Proficient in building scalable web applications using the **MERN stack** and passionate about solving complex problems through **Data Structures & Algorithms**.  Actively seeking **Software Development Engineer (SDE)** opportunities to leverage technical skills and contribute to innovative projects. 
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --primary: #5E81AC;
+      --secondary: #88C0D0;
+      --text: #d8dee9;
+      --muted: #9aa4b2;
+    }
 
-<br/>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
 
-## 🎓 Education
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
 
-**Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-**Specialization:** Artificial Intelligence & Machine Learning  
-**Expected Graduation:** 2027  
-**Relevant Coursework:** Data Structures, Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Deep Learning
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
 
-<br/>
+    header {
+      text-align: center;
+      margin-bottom: 60px;
+    }
 
-## 💼 Technical Skills
+    header h1 {
+      font-size: 3rem;
+      color: var(--secondary);
+    }
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons? i=js,python,java,c,cpp" />
-      <br/>JavaScript • Python • Java • C • C++
-    </td>
-    <td align="center" width="25%">
-      <h3>Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-      <br/>React. js • HTML5 • CSS3 • Tailwind • Bootstrap
-    </td>
-    <td align="center" width="25%">
-      <h3>Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
-      <br/>Node. js • Express.js • RESTful APIs
-    </td>
-    <td align="center" width="25%">
-      <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-      <br/>MongoDB • MySQL • PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <h3>AI/ML & Data Science</h3>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-      <br/>TensorFlow • PyTorch • Scikit-learn • Pandas
-    </td>
-    <td align="center" width="25%">
-      <h3>Developer Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-      <br/>Git • GitHub • VS Code • Postman • NPM
-    </td>
-    <td align="center" width="25%">
-      <h3>Cloud & Deployment</h3>
-      <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" />
-      <br/>AWS • Vercel • Netlify • Heroku
-    </td>
-    <td align="center" width="25%">
-      <h3>Other Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=docker,linux,firebase" />
-      <br/>Docker • Linux • Firebase • JWT
-    </td>
-  </tr>
-</table>
+    header p {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 1.1rem;
+    }
 
-<br/>
+    section {
+      margin-bottom: 50px;
+    }
 
-## 🚀 Core Competencies
+    h2 {
+      font-size: 1.8rem;
+      color: var(--primary);
+      margin-bottom: 20px;
+      border-left: 4px solid var(--primary);
+      padding-left: 12px;
+    }
 
-```yaml
-Technical Expertise:
-  - Full Stack Web Development (MERN Stack)
-  - RESTful API Design & Development
-  - Database Design & Optimization
-  - Data Structures & Algorithms
-  - Machine Learning & AI Implementation
-  - Object-Oriented Programming (OOP)
-  - Version Control & Collaboration (Git/GitHub)
+    .card {
+      background: var(--card);
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 0 0 1px rgba(255,255,255,0.04);
+    }
 
-Professional Skills:
-  - Problem Solving & Analytical Thinking
-  - Code Optimization & Performance Tuning
-  - Agile Development Methodologies
-  - Technical Documentation
-  - Team Collaboration & Communication
-  - Quick Learner & Adaptable
-```
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 20px;
+    }
 
-<br/>
+    ul {
+      list-style: none;
+    }
 
-## 💡 What I'm Currently Doing
+    ul li::before {
+      content: "▹";
+      color: var(--secondary);
+      margin-right: 8px;
+    }
 
-- 🔨 **Building:** Full-stack web applications using MERN stack with focus on scalability and performance
-- 📚 **Learning:** Advanced Data Structures & Algorithms, System Design, and AI/ML frameworks
-- 🎯 **Practicing:** LeetCode & competitive programming to sharpen problem-solving skills
-- 🤖 **Exploring:** Machine Learning models, Deep Learning, and Neural Networks
-- 🌱 **Growing:** Contributing to open-source projects and building my professional portfolio
+    .competencies {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
 
-<br/>
+    .tag {
+      background: rgba(94,129,172,0.15);
+      color: var(--secondary);
+      padding: 8px 14px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
 
-## 📊 GitHub Performance Metrics
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vikashkumar016&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=5E81AC&icon_color=88C0D0&text_color=D8DEE9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkumar016&theme=nord&hide_border=true&background=0d1117&stroke=5E81AC&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0" alt="GitHub Streak"/>
-</div>
+    footer span {
+      color: var(--secondary);
+    }
+  </style>
+</head>
+<body>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar016&theme=nord&hide_border=true&bg_color=0d1117&color=88C0D0&line=5E81AC&point=D8DEE9&area=true&area_color=5E81AC" alt="Contribution Graph"/>
-</div>
+  <div class="container">
 
-<br/>
+    <!-- HEADER -->
+    <header>
+      <h1>Vikash Kumar</h1>
+      <p>Software Developer | CSE (AIML)</p>
+    </header>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashkumar016&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
+    <!-- SUMMARY -->
+    <section>
+      <h2>Professional Summary</h2>
+      <div class="card">
+        <p>
+          Computer Science Engineering student specializing in <strong>Artificial Intelligence & Machine Learning</strong>,
+          with strong skills in <strong>Full Stack Web Development</strong> and
+          <strong>Data Structures & Algorithms</strong>.
+        </p>
+        <br/>
+        <p>
+          Experienced in building responsive web applications and RESTful APIs.
+          Possesses a solid <strong>conceptual understanding of AI/ML</strong> including
+          data preprocessing, supervised learning, and model workflows.
+        </p>
+        <br/>
+        <p>
+          Currently strengthening problem-solving skills and preparing to learn
+          <strong>Cloud Computing and scalable system design</strong>.
+        </p>
+      </div>
+    </section>
 
-<br/>
+    <!-- EDUCATION -->
+    <section>
+      <h2>Education</h2>
+      <div class="card">
+        <strong>B.Tech – Computer Science & Engineering (AIML)</strong><br/>
+        Expected Graduation: 2027<br/><br/>
+        <span>Relevant Coursework:</span>
+        Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks, AI & ML
+      </div>
+    </section>
 
-## 🏆 Achievements & Certifications
+    <!-- SKILLS -->
+    <section>
+      <h2>Technical Skills</h2>
+      <div class="skills-grid">
 
-- 🎯 **Problem Solving:** Solved 200+ DSA problems across multiple platforms
-- 💻 **Full Stack Projects:** Developed 10+ production-ready web applications
-- 🤖 **AI/ML Projects:** Implemented machine learning models for real-world applications
-- 📜 **Certifications:** [Add your certifications here - e.g., AWS, Coursera, Udemy]
-- 🏅 **Hackathons:** [Add hackathon participations/wins]
-- 📝 **Technical Writing:** [Add blog posts or technical articles if any]
+        <div class="card">
+          <strong>Programming</strong>
+          <ul>
+            <li>Java, JavaScript, Python</li>
+            <li>C, C++</li>
+          </ul>
+        </div>
 
-<br/>
+        <div class="card">
+          <strong>Full Stack Development</strong>
+          <ul>
+            <li>React.js, HTML, CSS, Tailwind</li>
+            <li>Node.js, Express.js</li>
+            <li>REST APIs, JWT</li>
+          </ul>
+        </div>
 
-## 📂 Featured Projects
+        <div class="card">
+          <strong>Databases</strong>
+          <ul>
+            <li>MongoDB</li>
+            <li>MySQL, PostgreSQL</li>
+          </ul>
+        </div>
 
-> **Note:** Pin your best projects below by replacing the repo names
+        <div class="card">
+          <strong>AI / ML (Foundational)</strong>
+          <ul>
+            <li>Python for ML</li>
+            <li>Supervised Learning</li>
+            <li>Scikit-learn, Basic TensorFlow</li>
+          </ul>
+        </div>
 
-<div align="center">
-  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=vikashkumar016&repo=project-name-1&theme=nord&hide_border=true&bg_color=0d1117&title_color=5E81AC&icon_color=88C0D0&text_color=D8DEE9)](https://github.com/vikashkumar016/project-name-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=vikashkumar016&repo=project-name-2&theme=nord&hide_border=true&bg_color=0d1117&title_color=5E81AC&icon_color=88C0D0&text_color=D8DEE9)](https://github.com/vikashkumar016/project-name-2)
+      </div>
+    </section>
 
-</div>
+    <!-- CORE COMPETENCIES -->
+    <section>
+      <h2>Core Competencies</h2>
+      <div class="card competencies">
+        <div class="tag">Full Stack Development</div>
+        <div class="tag">Data Structures & Algorithms</div>
+        <div class="tag">Problem Solving</div>
+        <div class="tag">REST API Development</div>
+        <div class="tag">Object-Oriented Programming</div>
+        <div class="tag">AI/ML Fundamentals</div>
+        <div class="tag">Git & GitHub</div>
+      </div>
+    </section>
 
-### 💼 Sample Project Structure: 
+    <!-- CURRENT FOCUS -->
+    <section>
+      <h2>Currently Focused On</h2>
+      <div class="card">
+        <ul>
+          <li>Building full-stack web applications</li>
+          <li>Daily DSA practice (LeetCode, GFG)</li>
+          <li>Strengthening AI/ML fundamentals</li>
+          <li>Preparing for Cloud & system design</li>
+        </ul>
+      </div>
+    </section>
 
-**1. [E-Commerce Web Application]** - *Full Stack MERN*
-- Built a scalable e-commerce platform with user authentication, product management, and payment integration
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Stripe API
-- **Features:** User authentication, shopping cart, payment gateway, admin dashboard
+    <!-- FOOTER -->
+    <footer>
+      <p>“Talk is cheap. Show me the code.” — <span>Linus Torvalds</span></p>
+    </footer>
 
-**2. [AI-Powered Chatbot]** - *Machine Learning*
-- Developed an intelligent chatbot using NLP and machine learning algorithms
-- **Tech Stack:** Python, TensorFlow, Flask, React.js
-- **Features:** Natural language processing, sentiment analysis, real-time responses
+  </div>
 
-**3. [Task Management System]** - *Full Stack Web App*
-- Created a collaborative task management application with real-time updates
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io
-- **Features:** Real-time collaboration, task assignment, progress tracking
-
-<br/>
-
-## 🎯 Areas of Interest
-
-- **Software Development Engineering (SDE)**
-- **Full Stack Web Development**
-- **Artificial Intelligence & Machine Learning**
-- **Data Structures & Algorithms**
-- **System Design & Architecture**
-- **Cloud Computing & DevOps**
-- **Open Source Contribution**
-
-<br/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-a0ab901b9/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vku96625)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vikash_016/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Code_Catalyst_016)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000? style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio. com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashkumar016)
-
-</div>
-
-<br/>
-
-## 📈 Coding Profiles
-
-<div align="center">
-
-| Platform | Profile | Problem Solving |
-|: ---:|:---:|:---:|
-| 💻 **LeetCode** | [@vikash_016](https://leetcode.com/u/vikash_016/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/vikash_016? theme=nord&font=JetBrains%20Mono&ext=heatmap) |
-| 🏆 **Codeforces** | [@Code_Catalyst_016](https://codeforces.com/profile/Code_Catalyst_016) | Competitive Programmer |
-| 🎯 **HackerRank** | [@vikashkumar016](https://hackerrank.com/vikashkumar016) | Problem Solver |
-| 📊 **CodeChef** | [@vikashkumar016](https://codechef.com/users/vikashkumar016) | Active Participant |
-
-</div>
-
-<br/>
-
-## 💼 Open to Opportunities
-
-I am actively seeking **full-time opportunities**, **internships**, and **collaborative projects** in: 
-
-✅ Software Development Engineer (SDE) roles  
-✅ Full Stack Development positions  
-✅ AI/ML Engineering internships  
-✅ Open Source Contributions  
-✅ Freelance Projects
-
-**📩 Feel free to reach out for collaborations or opportunities! **
-
-<br/>
-
----
-
-<div align="center">
-  
-### 📊 Profile Statistics
-  
-![Profile Views](https://komarev.com/ghpvc/?username=vikashkumar016&style=for-the-badge&color=5E81AC&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/vikashkumar016? style=for-the-badge&color=88C0D0&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/vikashkumar016?style=for-the-badge&color=BF616A&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:4C566A&height=120&section=footer" width="100%"/>
-</div>
+</body>
+</html>
