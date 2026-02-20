@@ -155,10 +155,9 @@ const developer = {
 
 <div align="center">
 
-![Snake animation](https://github.com/vikashkumar016/vikashkumar016/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vikashkumar016/vikashkumar016/output/github-contribution-grid-snake.svg)
 
 </div>
-
 ---
 
 <div align="center">
