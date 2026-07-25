@@ -1,106 +1,147 @@
-# 👋 Hi, I'm Vikash Kumar
+<div align="center">
 
-### Full Stack Developer • AI/ML Enthusiast • Computer Science Student
+# Hi, I'm Vikash Kumar 👋
 
-> *Building scalable web applications, exploring AI, and solving real-world problems.*
+### Full Stack Developer • AI/ML Enthusiast • Software Engineering Student
+
+> *Building modern web applications, exploring Artificial Intelligence, and solving real-world problems through code.*
+
+<br>
+
+<a href="https://github.com/vikashkumar016">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikash-kumar-a0ab901b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/vikash_016/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Computer Science student specializing in AI & Machine Learning
-* 💻 Passionate about Full Stack Development and Software Engineering
-* 🌱 Currently learning System Design, AI, RAG, and Cloud Technologies
-* 🧩 Love solving Data Structures & Algorithms problems
-* 🎯 Goal: Become a Software Engineer and build impactful products
+I'm a Computer Science student passionate about building scalable software and AI-powered applications.
+
+* 💻 Full Stack Web Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 📚 Data Structures & Algorithms
+* 🌱 Currently learning System Design, RAG and Cloud
+* 🎯 Goal: Become a Software Engineer building products that impact millions
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-Java • JavaScript • Python • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
+</p>
 
 ### Frontend
 
-React • Tailwind CSS • Next.js
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
 
 ### Backend
 
-Node.js • Express.js
-
-### Database
-
-MongoDB • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Docker
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🤖 AI Interview Preparation Platform
 
-An AI-powered interview practice platform with authentication, timer, AI feedback, dashboards, and progress tracking.
+AI-powered interview simulator with authentication, timer, dashboards, AI feedback and progress tracking.
 
-**Tech:** React • Node.js • Express • MongoDB
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • AI API
 
 ---
 
 ### 💰 Expense Tracker
 
-Track income and expenses with analytics, authentication, charts, and monthly reports.
+A modern finance tracker with authentication, charts, analytics and budgeting.
 
-**Tech:** React • Node.js • MongoDB
+**Tech Stack**
+
+React • Express • MongoDB
 
 ---
 
 ### 🌦 Weather Dashboard
 
-A responsive weather application using a public Weather API.
+Responsive weather application using real-time APIs.
 
-**Tech:** React • API Integration
+**Tech Stack**
+
+React • REST API
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashkumar016&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar016&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikashkumar016&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar016&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/vikash-kumar-a0ab901b9/
-* 💻 GitHub: https://github.com/vikashkumar016
-* 🧠 LeetCode: https://leetcode.com/u/vikash_016/
-
----
-
-## 💡 Currently Working On
-
-* 🚀 AI Interview Preparation Platform
-* 📚 Learning RAG & Generative AI
-* ⚙️ Backend Development with Node.js
-* 🧠 Data Structures & Algorithms
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on exciting projects, open-source contributions, and learning new technologies.
-
-Feel free to connect with me!
-
----
+# 📈 Contribution Graph
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar016&theme=github-dark&hide_border=true"/>
+
 </p>
 
+---
+
+# 🌱 Currently Learning
+
+* System Design
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Backend Architecture
+* Docker & Cloud Deployment
+
+---
+
+# 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, open-source contributions, and software engineering opportunities.
+
+* 💼 LinkedIn → https://www.linkedin.com/in/vikash-kumar-a0ab901b9/
+* 💻 GitHub → https://github.com/vikashkumar016
+* 🧠 LeetCode → https://leetcode.com/u/vikash_016/
+
+---
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
+
+</div>
