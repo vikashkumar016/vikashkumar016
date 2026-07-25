@@ -1,47 +1,35 @@
-<div align="center">
-
-# Hi, I'm Vikash Kumar 👋
-
-### Full Stack Developer • AI/ML Enthusiast • Software Engineering Student
-
-> *Building modern web applications, exploring Artificial Intelligence, and solving real-world problems through code.*
-
-<br>
-
-<a href="https://github.com/vikashkumar016">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vikash-kumar-a0ab901b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/vikash_016/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
 # 🚀 About Me
 
-I'm a Computer Science student passionate about building scalable software and AI-powered applications.
+I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent applications and scalable web solutions.
 
-* 💻 Full Stack Web Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 📚 Data Structures & Algorithms
-* 🌱 Currently learning System Design, RAG and Cloud
-* 🎯 Goal: Become a Software Engineer building products that impact millions
+I enjoy combining **AI, Machine Learning, Data Science, and Full Stack Development** to solve real-world problems. Currently, I'm focused on strengthening my skills in **Generative AI, Retrieval-Augmented Generation (RAG), System Design, and Backend Development** while preparing for software engineering roles.
+
+* 🤖 AI & Machine Learning Enthusiast
+* 💻 Full Stack Developer
+* 🧠 Data Structures & Algorithms
+* 📊 Data Science & Analytics
+* 🚀 Building AI-powered Applications
+* 🌱 Currently learning LLMs, RAG, MLOps, and Cloud Technologies
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-102230?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -56,7 +44,7 @@ I'm a Computer Science student passionate about building scalable software and A
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-### Tools
+### Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
@@ -66,82 +54,50 @@ I'm a Computer Science student passionate about building scalable software and A
 
 # 📌 Featured Projects
 
-### 🤖 AI Interview Preparation Platform
+## 🤖 AI Interview Preparation Platform
 
-AI-powered interview simulator with authentication, timer, dashboards, AI feedback and progress tracking.
+An intelligent interview preparation platform that simulates technical interviews using Large Language Models. The platform evaluates candidate responses, provides AI-generated feedback, suggests improvements, tracks progress, and helps users prepare for software engineering interviews.
 
-**Tech Stack**
+**Highlights**
 
-React • Node.js • Express • MongoDB • AI API
-
----
-
-### 💰 Expense Tracker
-
-A modern finance tracker with authentication, charts, analytics and budgeting.
-
-**Tech Stack**
-
-React • Express • MongoDB
-
----
-
-### 🌦 Weather Dashboard
-
-Responsive weather application using real-time APIs.
+* AI-powered answer evaluation
+* Intelligent feedback generation
+* Interview performance analytics
+* Personalized improvement suggestions
+* Authentication & User Dashboard
+* Progress Tracking
+* Real-time Interview Experience
 
 **Tech Stack**
 
-React • REST API
+Python • FastAPI/Node.js • LLM API (OpenAI/Gemini) • Vector Database (RAG Ready) • MongoDB • React
 
 ---
 
-# 📊 GitHub Statistics
+## 📄 AI Resume Analyzer
 
-<p align="center">
+An AI-powered application that analyses resumes, extracts skills, compares them with job descriptions, identifies missing keywords, and provides personalised recommendations to improve ATS scores.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikashkumar016&show_icons=true&theme=github_dark&hide_border=true"/>
+**Tech Stack**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar016&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+Python • NLP • Machine Learning • FastAPI • React • MongoDB
 
 ---
 
-# 📈 Contribution Graph
+## 💰 Expense Tracker
 
-<p align="center">
+A full-stack finance management application with authentication, budgeting, analytics, charts, and expense categorisation.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar016&theme=github-dark&hide_border=true"/>
+**Tech Stack**
 
-</p>
-
----
-
-# 🌱 Currently Learning
-
-* System Design
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* Backend Architecture
-* Docker & Cloud Deployment
+React • Node.js • Express • MongoDB
 
 ---
 
-# 📫 Let's Connect
+## 📊 Data Analytics Dashboard
 
-I'm always open to collaborating on interesting projects, open-source contributions, and software engineering opportunities.
+Interactive dashboard for analysing datasets with data visualisation, filtering, KPI tracking, and business insights.
 
-* 💼 LinkedIn → https://www.linkedin.com/in/vikash-kumar-a0ab901b9/
-* 💻 GitHub → https://github.com/vikashkumar016
-* 🧠 LeetCode → https://leetcode.com/u/vikash_016/
+**Tech Stack**
 
----
-
-<div align="center">
-
-### "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+Python • Pandas • NumPy • Plotly • Streamlit
